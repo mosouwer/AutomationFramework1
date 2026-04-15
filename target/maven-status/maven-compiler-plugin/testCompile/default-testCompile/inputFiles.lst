@@ -1,0 +1,15 @@
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/abstractComponent/AbstractComponent.java
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/pageObjects/CartPage.java
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/pageObjects/CheckoutPage.java
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/pageObjects/ConfirmationPage.java
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/pageObjects/LadingPage.java
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/pageObjects/OrderPage.java
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/pageObjects/ProductCateloge.java
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/resources/ExtentReporterNG.java
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/stepDefination/StepDefinationImp.java
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/testComponents/BaseTest.java
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/testComponents/Listeners.java
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/testComponents/RetryTest.java
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/tests/ErrorValidations.java
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/tests/StandAloneTest.java
+/Users/mosouwer/eclipse-workspace/StoreFramework/src/test/java/store/tests/StandAloneTest2.java

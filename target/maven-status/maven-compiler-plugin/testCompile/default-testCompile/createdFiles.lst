@@ -1,0 +1,10 @@
+store/tests/StandAloneTest2.class
+store/pageObjects/LadingPage.class
+store/pageObjects/OrderPage.class
+store/resources/ExtentReporterNG.class
+store/abstractComponent/AbstractComponent.class
+store/pageObjects/ConfirmationPage.class
+store/pageObjects/ProductCateloge.class
+store/pageObjects/CheckoutPage.class
+store/pageObjects/CartPage.class
+store/testComponents/RetryTest.class
