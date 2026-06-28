@@ -6,6 +6,7 @@
  <test thread-count="5" name="Submit Order Test">
     <classes>
       <class name="store.tests.StandAloneTest"/>
+
     </classes>
   </test>
    

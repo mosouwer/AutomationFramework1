@@ -24,7 +24,7 @@ public class StandAloneTest2 {
 		Boolean match=false;
 		
 		
-		driver.findElement(By.id("userEmail")).sendKeys("macguy@gmail.com");
+		driver.findElement(By.id("userEmail")).sendKeys("macguy@gmail.comm");
 		driver.findElement(By.id("userPassword")).sendKeys("Unlock@001");
 		driver.findElement(By.id("login")).click();
 		
