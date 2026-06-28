@@ -19,6 +19,7 @@ public class StepDefinationImp extends BaseTest {
 	@Given("^I logged with username (.+) and password (.+)$")   //regex for accepting any parameter value ^ and $ will be used
 	public void logged_in_username_and_password(String username,String password) throws InterruptedException {
 		ProductCateloge cateloge =landingpage.loginPage(username,password);
+		
 	}
 	
 

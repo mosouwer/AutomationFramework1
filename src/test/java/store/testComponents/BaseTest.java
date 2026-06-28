@@ -29,29 +29,32 @@ public class BaseTest {
 		
 		//properties class
 		
-		Properties prop = new Properties();
-		FileInputStream fis= new FileInputStream("/Users/mosouwer/eclipse-workspace/test2/src/main/java/store/resources/GlobalData.properties");
-		prop.load(fis);
+//		Properties prop = new Properties();
+//
+//		String path = System.getProperty("user.dir")
+//		        + "/src/main/java/store/resources/GlobalData.properties";
+//
+//		System.out.println(path);
+//
+//		FileInputStream fis = new FileInputStream(path);
+//		
+//		prop.load(fis);
+//		
+//		
+//		String browser=prop.getProperty("browser");
 		
 		
-		String browser=prop.getProperty("browser");
-		
+		String browser="chrome";
 		
 		if(browser.contains("chrome")) {
 			ChromeOptions options = new ChromeOptions();   //for passing chrome parameters
 		//	options.addArguments("--headless=new");
 		//	options.addArguments("--window-size=1920,1080");
-			driver = new ChromeDriver();
-			
-			
-			
+			driver = new ChromeDriver();	
 
 		}
 		
-		
-		
-		
-	
+
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		

@@ -65,7 +65,7 @@ public class ErrorValidations extends BaseTest {
 	
 	
 	
-	@Test(dataProvider="getdata",retryAnalyzer=RetryTest.class)
+	@Test(dataProvider="getdata")
 	public void LoginErrorValidation(HashMap<String,String> input) throws IOException, InterruptedException {
 		// TODO Auto-generated method stub
 		
